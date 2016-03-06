@@ -1,0 +1,22 @@
+{
+  "name": "pull-reverse",
+  "version": "0.0.0",
+  "description": "cache a pull-stream so it can be read in reverse",
+  "main": "index.js",
+  "scripts": {
+    "test": "tape test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/clehner/pull-reverse"
+  },
+  "keywords": [
+    "pull-stream"
+  ],
+  "author": "Charles Lehner (http://celehner.com/)",
+  "license": "Fair",
+  "devDependencies": {
+    "pull-stream": "^3.2.0",
+    "tape": "^4.5.0"
+  }
+}
